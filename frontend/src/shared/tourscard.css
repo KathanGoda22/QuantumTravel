@@ -1,0 +1,35 @@
+.card {
+  border: none !important;
+  box-shadow: rgba(0, 0, 0, 0.35) 10px 0px 100px 0px;
+}
+
+.tour_city, .tour_rating{
+  color: #000000;
+}
+
+.tour_price a{
+  text-decoration: none;
+  color: #000000;
+  font-size: 30px;
+}
+
+.tour_price span{
+  color: #000000;
+}
+
+.booking_btn {
+  background: #a32cc4 !important;
+  border: none !important;
+  border-radius: 50px !important;
+  padding: 0.4rem 1.5rem !important;
+}
+
+.booking_btn a {
+  font-size: 1.1rem;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.booking_btn a:hover {
+  color: #000000;
+}

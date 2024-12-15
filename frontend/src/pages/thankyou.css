@@ -1,0 +1,25 @@
+.thank_you span i {
+  font-size: 4rem;
+  color: green;
+}
+
+.thank_you h1 {
+  font-size: 3.1rem;
+  font-family: var(--subtitle-font-name);
+}
+
+.thank {
+  background: #a32cc4 !important;
+  border: none !important;
+  padding: 0.4rem 1.5rem !important;
+}
+
+.thank a{
+  font-size: 1.1rem;
+  text-decoration: none !important;
+  color: #ffffff;
+}
+
+.thank a:hover {
+  color: #000000;
+}

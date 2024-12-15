@@ -1,0 +1,18 @@
+.card {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 2rem;
+    margin-bottom: 2rem;
+    margin-right: 6rem;
+}
+
+.card p{
+    padding-top: 1rem;
+    line-height: 150%;
+    color: gray;
+}
+
+.card h2{
+    color: gray;
+    object-fit: cover;
+}

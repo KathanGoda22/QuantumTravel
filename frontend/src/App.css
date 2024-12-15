@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Island+Moments&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
+
+:root {
+  /*--primary-color: #710793;
+  --secondary-color: #a32cc4;
+  --heading-color-light: #000000;
+  --heading-color-dark: #ffffff;
+  --text-color-light: #000000;
+  --text-color-dark: #dddddd;*/
+  --font-name: "Montserrat", sans-serif;
+  --subtitle-font-name: "Island Moments", cursive;
+}
+
+body {
+  font-family: var(--font-name);
+}
+
+ul {
+  list-style: none;
+}
+
+/*.primary_btn {
+  background: #a32cc4 !important;
+  border: none !important;
+  border-radius: 50px !important;
+  padding: 0.4rem 1.5rem !important;
+}
+
+.primary_btn a {
+  font-size: 1.1rem;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.primary_btn a:hover {
+  color: #000000;
+}
+
+.secondary_btn  {
+  background: transparent !important;
+  color: #000000 !important;
+  border: none !important;
+  font-weight: 500 !important;
+}
+
+.secondary_btn a {
+  font-size: 1.1rem;
+  color: #ffffff;
+}
+
+.secondary_btn a:hover {
+  color: black;
+}*/
+
+.section_subtitle {
+  font-family: var(--subtitle-font-name);
+  width: max-content;
+  padding: 0px 0.5rem;
+  border-radius: 50px;
+  font-weight: 500;
+  font-size: 2.7rem;
+  color: #ee6e6e;
+}
+
+.light-theme {
+  background-color: #fff;
+  color: #000000;
+}
+
+.light-theme button {
+  background-color: #710793;
+  color: black;
+}
+
+.dark-theme {
+  background-color: #09020c; /*#0e0113  #000000*/
+  color: #ffffff;
+}
+
+.dark-theme button {
+  background-color: #a32cc4;
+  color: white;
+}

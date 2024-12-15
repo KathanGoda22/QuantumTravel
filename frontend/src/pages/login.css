@@ -1,0 +1,90 @@
+.login_img {
+  width: 60%;
+  text-align: center;
+}
+
+.login_img img {
+  width: 70%;
+}
+
+.login_form {
+  padding: 20px;
+  background: #a32cc4;
+  position: relative;
+  width: 40%;
+}
+
+.login_container {
+  box-shadow: rgba(163, 44, 196, 0.35) 10px 0px 100px 0px;
+  margin-top: 10px;
+}
+
+.login_form .user {
+  width: 80%;
+  height: 80px;
+  position: relative;
+  top: -20%;
+  left: 200px;
+  transform: translate(-50%, -9%);
+}
+
+.login_form .user img {
+  width: 120px;
+  height: 120px;
+}
+
+.login_form h2 {
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+#username {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+}
+
+#email {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+}
+
+#password {
+  width: 100%;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+}
+
+.login_form input:focus {
+  outline: none;
+}
+
+.auth_btn {
+  background: #000000 !important;
+  width: 100%;
+  color: #fff !important;
+}
+
+.login_form p {
+  font-size: 0.9rem;
+  color: #ffffff;
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.login_form p a {
+  color: #000000;
+  text-decoration: none;
+  margin-left: 5px;
+  font-weight: 500;
+}

@@ -1,0 +1,28 @@
+.footer {
+  padding: 60px;
+  padding-bottom: 30px;
+}
+
+.social_links span a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.2rem;
+}
+
+.foot_item a {
+  text-decoration: none !important;
+}
+
+.gene div {
+  margin-bottom: 1rem;
+  color: #007bff;
+}
+
+.footer_links-title dark-theme {
+  margin-bottom: 1rem;
+}
+
+.cp dark-theme {
+  color: #ffffff;
+  font-size: 1.1rem;
+}
